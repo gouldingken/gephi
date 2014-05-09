@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-bootstrap:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-modules:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-util:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-util-lookup:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-filesystems:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:swing-layout-1.0.4:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-awt:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-annotations-common:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-progress:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-queries:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-swing-outline:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-actions:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-dialogs:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-explorer:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-swing-tabcontrol:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-windows:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-nodes:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-text:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-editor-mimelookup:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-io:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-loaders:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-core:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-core-startup:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-keyring:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-sampler:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-swing-plaf:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-execution:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-core-windows:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-options-api:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-spi-quicksearch:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-settings:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-libs-jna:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:jna-3.4.0:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:platform-3.4.0:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-libs-osgi:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:osgi.core-4.3:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:osgi.cmpn-4.2:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.main:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.felix:org.apache.felix.framework:4.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:testng-6.5.1-dist:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.external:updater:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-autoupdate-services:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-core-ui:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-libs-felix:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-autoupdate-ui:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-modules-favorites:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-modules-masterfs:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-modules-options-keymap:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-print:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: javax.help:javahelp:2.0.05" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-core-netigso:RELEASE721" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.birt.runtime.3_7_1:org.eclipse.osgi:3.7.1" level="project" />
+    <orderEntry type="module" module-name="gephi-branding" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.netbeans.api:org-netbeans-modules-nbjunit:RELEASE721" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.netbeans.modules:org-netbeans-insane:RELEASE721" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.netbeans.api:org-netbeans-libs-junit4:RELEASE721" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
+    <orderEntry type="module" module-name="utils-longtask" />
+    <orderEntry type="module" module-name="project-api" />
+    <orderEntry type="module" module-name="io-exporter-api" />
+    <orderEntry type="module" module-name="graph-api" />
+    <orderEntry type="module" module-name="data-attributes-api" />
+    <orderEntry type="module" module-name="preview-api" />
+    <orderEntry type="module" module-name="core-library-wrapper" />
+    <orderEntry type="library" name="Maven: joda-time:joda-time:2.1" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev:stax-utils:snapshot-20100402" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-compress:1.1" level="project" />
+    <orderEntry type="library" name="Maven: jfree:jfreechart:1.0.13" level="project" />
+    <orderEntry type="library" name="Maven: jfree:jcommon:1.0.16" level="project" />
+    <orderEntry type="library" name="Maven: gnu.trove:trove:2.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.collections:google-collections:1.0" level="project" />
+    <orderEntry type="library" name="Maven: net.sourceforge.javacsv:javacsv:2.0" level="project" />
+    <orderEntry type="library" name="Maven: xml-apis:xml-apis-ext:1.3.04" level="project" />
+    <orderEntry type="library" name="Maven: com.itextpdf:itextpdf:5.2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-transcoder:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-awt-util:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-util:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-bridge:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-anim:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-dom:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-css:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-ext:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-xml:1.7" level="project" />
+    <orderEntry type="library" name="Maven: xalan:xalan:2.6.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-parser:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-svg-dom:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-gvt:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xmlgraphics:batik-script:1.7" level="project" />
+    <orderEntry type="library" name="Maven: org.processing:core:1.5.1" level="project" />
+    <orderEntry type="module" module-name="utils" />
+    <orderEntry type="module" module-name="io-exporter-preview" />
+    <orderEntry type="module" module-name="lib.validation" />
+    <orderEntry type="library" name="Maven: org.netbeans:simple-validation:1.0" level="project" />
+    <orderEntry type="module" module-name="preview-export-ui" />
+    <orderEntry type="module" module-name="ui-library-wrapper" />
+    <orderEntry type="library" name="Maven: org.pushingpixels:flamingo:5.0-gephi" level="project" />
+    <orderEntry type="library" name="Maven: org.pushingpixels:trident:1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.swinglabs:swingx:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.jhlabs:filters:2.0.235" level="project" />
+    <orderEntry type="library" name="Maven: org.swinglabs:swing-worker:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jdesktop:beansbinding:1.2.1" level="project" />
+    <orderEntry type="library" name="Maven: com.connectina.swing:fontchooser:1.0" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev:colorchooser:1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.miglayout:miglayout:3.7.1" level="project" />
+    <orderEntry type="library" name="Maven: net.java.dev:timingframework:1.1" level="project" />
+    <orderEntry type="module" module-name="dynamic-api" />
+    <orderEntry type="module" module-name="datalab-api" />
+    <orderEntry type="module" module-name="visualization-api" />
+    <orderEntry type="module" module-name="preview-plugin" />
+    <orderEntry type="module" module-name="db-drivers" />
+    <orderEntry type="library" name="Maven: org.xerial:sqlite-jdbc:3.7.2" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.18" level="project" />
+    <orderEntry type="library" name="Maven: postgresql:postgresql:9.1-901-1.jdbc4" level="project" />
+    <orderEntry type="library" name="Maven: com.microsoft.sqlserver:sqljdbc4:3.0.1301.101" level="project" />
+    <orderEntry type="library" name="Maven: com.teradata:teradata-jdbc:14.00.00.21" level="project" />
+    <orderEntry type="library" name="Maven: com.teradata:teradata-config:14.00.00.21" level="project" />
+    <orderEntry type="module" module-name="io-importer-api" />
+    <orderEntry type="module" module-name="io-processor-plugin" />
+    <orderEntry type="module" module-name="processor-plugin-ui" />
+    <orderEntry type="module" module-name="project-ui" />
+    <orderEntry type="module" module-name="ranking-api" />
+    <orderEntry type="module" module-name="ranking-plugin" />
+    <orderEntry type="module" module-name="ui-utils" />
+    <orderEntry type="module" module-name="ui-components" />
+    <orderEntry type="module" module-name="ranking-plugin-ui" />
+    <orderEntry type="module" module-name="settings-upgrader" />
+    <orderEntry type="module" module-name="spigot-plugin" />
+    <orderEntry type="library" name="Maven: com.sun.mail:javax.mail:1.4.5" level="project" />
+    <orderEntry type="library" name="Maven: javax.activation:activation:1.1" level="project" />
+    <orderEntry type="module" module-name="spigot-plugin-ui" />
+    <orderEntry type="library" name="Maven: com.toedter:jcalendar:1.3.3" level="project" />
+    <orderEntry type="module" module-name="spline-editor" />
+    <orderEntry type="module" module-name="statistics-api" />
+    <orderEntry type="module" module-name="statistics-plugin" />
+    <orderEntry type="module" module-name="statistics-plugin-ui" />
+    <orderEntry type="module" module-name="timeline" />
+    <orderEntry type="module" module-name="tools-api" />
+    <orderEntry type="module" module-name="algorithms-plugin" />
+    <orderEntry type="module" module-name="utils-collection" />
+    <orderEntry type="module" module-name="gleem" />
+    <orderEntry type="module" module-name="mostrecentfiles-api" />
+    <orderEntry type="module" module-name="desktop-project" />
+    <orderEntry type="module" module-name="visualization" />
+    <orderEntry type="library" name="Maven: com.sun.opengl:jogl:1.1.1-a" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.gluegen.runtime:gluegen-rt:1.1.1-a" level="project" />
+    <orderEntry type="module" module-name="tools-plugin" />
+    <orderEntry type="module" module-name="welcome-screen" />
+    <orderEntry type="module" module-name="workspace-ui" />
+    <orderEntry type="module" module-name="desktop-context" />
+    <orderEntry type="module" module-name="desktop-progress" />
+    <orderEntry type="module" module-name="desktop-branding" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-sendopts:RELEASE721" level="project" />
+    <orderEntry type="module" module-name="layout-api" />
+    <orderEntry type="module" module-name="io-generator-api" />
+    <orderEntry type="module" module-name="io-generator-plugin" />
+    <orderEntry type="module" module-name="generator-plugin-ui" />
+    <orderEntry type="module" module-name="io-exporter-plugin" />
+    <orderEntry type="module" module-name="desktop-ranking" />
+    <orderEntry type="module" module-name="desktop-statistics" />
+    <orderEntry type="module" module-name="filters-api" />
+    <orderEntry type="module" module-name="clustering-api" />
+    <orderEntry type="module" module-name="ui-propertyeditor" />
+    <orderEntry type="module" module-name="layout-plugin" />
+    <orderEntry type="module" module-name="desktop-spigot" />
+    <orderEntry type="module" module-name="desktop-generate" />
+    <orderEntry type="module" module-name="partition-api" />
+    <orderEntry type="module" module-name="desktop-partition" />
+    <orderEntry type="module" module-name="graph-dhns" />
+    <orderEntry type="module" module-name="attributes" />
+    <orderEntry type="module" module-name="io-importer-plugin" />
+    <orderEntry type="module" module-name="desktop-datalab" />
+    <orderEntry type="module" module-name="filters-plugin" />
+    <orderEntry type="module" module-name="filters-impl" />
+    <orderEntry type="module" module-name="export-plugin-ui" />
+    <orderEntry type="module" module-name="desktop-recent-files" />
+    <orderEntry type="module" module-name="desktop-io-export" />
+    <orderEntry type="module" module-name="perspective-api" />
+    <orderEntry type="module" module-name="desktop-clustering" />
+    <orderEntry type="module" module-name="import-plugin-ui" />
+    <orderEntry type="module" module-name="desktop-hierarchy" />
+    <orderEntry type="module" module-name="desktop-perspective" />
+    <orderEntry type="module" module-name="filters-plugin-ui" />
+    <orderEntry type="module" module-name="datalab-plugin" />
+    <orderEntry type="module" module-name="desktop-layout" />
+    <orderEntry type="module" module-name="dynamic-impl" />
+    <orderEntry type="module" module-name="desktop-import" />
+    <orderEntry type="module" module-name="desktop-preview" />
+    <orderEntry type="module" module-name="partition-plugin" />
+    <orderEntry type="module" module-name="partition-plugin-ui" />
+    <orderEntry type="module" module-name="desktop-tools" />
+    <orderEntry type="module" module-name="desktop-timeline" />
+    <orderEntry type="module" module-name="directory-chooser" />
+    <orderEntry type="module" module-name="desktop-filters" />
+    <orderEntry type="module" module-name="clustering-plugin" />
+  </component>
+</module>
+
